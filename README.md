@@ -10,7 +10,7 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
 <hr>
 
-- [Development of an autonomous agent for the game Rush Hour](https://github.com/marco-almeida/projects-leci/tree/master/Rush%20Hour)
+- [Development of an autonomous agent for the game Rush Hour](https://github.com/marco-almeida/projects-leci/tree/main/Rush%20Hour)
 
      Grade: 18.8/20
 
@@ -26,7 +26,7 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
 <hr>
 
-- [Vulnerabilities in Software Projects](https://github.com/marco-almeida/projects-leci/tree/master/Vulnerabilities%20in%20Software%20Projects)
+- [Vulnerabilities in Software Projects](https://github.com/marco-almeida/projects-leci/tree/main/Vulnerabilities%20in%20Software%20Projects)
 
      Grade: 16.6/20
 
@@ -40,7 +40,7 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
      - Security and Vulnerabilities report in LaTeX.
 
 
-- [Secure, multi-player online bingo game in Python](https://github.com/marco-almeida/projects-leci/tree/master/Bingo)
+- [Secure, multi-player online bingo game in Python](https://github.com/marco-almeida/projects-leci/tree/main/Bingo)
 
      Grade: 18.5/20
 
@@ -56,7 +56,7 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
 <hr>
 
- - [Memory Management Simulation System](https://github.com/marco-almeida/projects-leci/tree/master/somm22)
+ - [Memory Management Simulation System](https://github.com/marco-almeida/projects-leci/tree/main/somm22)
 
      Grade: 17.5/20
 
