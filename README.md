@@ -45,9 +45,9 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
      Grade: 18.5/20
 
      #### Components:
-     - Python game code featuring TCP communication
-     - Hybrid RSA AES encryption
-     - AES-CBC symmetric encryption
+     - Python game code featuring TCP communication.
+     - Hybrid RSA AES encryption.
+     - AES-CBC symmetric encryption.
      - Secure multi-stage deck shuffling and distribution protocol with encryption.
      - Cheating detection.
      - Secure point accounting and identity assurance using Portugal's Citizenship Card authentication keys and certificates using `PKCS#11`.
