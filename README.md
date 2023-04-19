@@ -22,6 +22,9 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
      Game code by professor [Diogo Gomes](https://github.com/dgomes)
 
+### Information And Organisational Security
+
+<hr>
 
 - [Vulnerabilities in Software Projects](https://github.com/marco-almeida/projects-leci/tree/master/Vulnerabilities%20in%20Software%20Projects)
 
@@ -48,6 +51,10 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
      - Secure multi-stage deck shuffling and distribution protocol with encryption.
      - Cheating detection.
      - Secure point accounting and identity assurance using Portugal's Citizenship Card authentication keys and certificates using `PKCS#11`.
+
+### Operating Systems
+
+<hr>
 
  - [Memory Management Simulation System](https://github.com/marco-almeida/projects-leci/tree/master/somm22)
 
