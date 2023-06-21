@@ -18,11 +18,11 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
      Autonomous agent for the game Rush Hour in Python, making use of several pathfinding algorithms.
 
-#### Components
+     #### Components
 
-- Pathfinding Algorithms (A*, greedy, depth, breadth)
+     - Pathfinding Algorithms (A*, greedy, depth, breadth)
 
-     Game code by professor [Diogo Gomes](https://github.com/dgomes)
+          Game code by professor [Diogo Gomes](https://github.com/dgomes)
 
 ### Information And Organisational Security
 
@@ -34,25 +34,25 @@ Some of my favorite projects developed for the Computer and Informatics Engineer
 
      Development of a vulnerable website and a secure version of it using Flask.
 
-#### Components
+     #### Components
 
-- Flask backend.
-- Frontend with HTML (with Bootstrap).
-- Secure and insecure programming against SQL Injections and XSS attacks.
-- Security and Vulnerabilities report in LaTeX.
+     - Flask backend.
+     - Frontend with HTML (with Bootstrap).
+     - Secure and insecure programming against SQL Injections and XSS attacks.
+     - Security and Vulnerabilities report in LaTeX.
 
 - [Secure, multi-player online bingo game in Python](https://github.com/marco-almeida/projects-leci/tree/main/Bingo)
 
      Grade: 18.5/20
 
-#### Components
+     #### Components
 
-- Python game code featuring TCP communication.
-- Hybrid RSA AES encryption.
-- AES-CBC symmetric encryption.
-- Secure multi-stage deck shuffling and distribution protocol with encryption.
-- Cheating detection.
-- Secure point accounting and identity assurance using Portugal's Citizenship Card authentication keys and certificates using `PKCS#11`.
+     - Python game code featuring TCP communication.
+     - Hybrid RSA AES encryption.
+     - AES-CBC symmetric encryption.
+     - Secure multi-stage deck shuffling and distribution protocol with encryption.
+     - Cheating detection.
+     - Secure point accounting and identity assurance using Portugal's Citizenship Card authentication keys and certificates using `PKCS#11`.
 
 ### Operating Systems
 
